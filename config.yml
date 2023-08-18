@@ -1,0 +1,10 @@
+baseURL: "http://localhost:1313"
+title: BlogApp
+paginate: 5
+theme: papermod
+
+params:
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Can be Info, links, about...
+
